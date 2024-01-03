@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "7725067660",
+    "project_id": "fir-ea78d",
+    "storage_bucket": "fir-ea78d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:7725067660:android:23b1f772409120b6cf7aa9",
+        "android_client_info": {
+          "package_name": "com.lenovo.firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3uLc4r-mw_Gbo4uLRAZqAAKqRzydIAKw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
