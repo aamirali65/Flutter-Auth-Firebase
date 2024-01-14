@@ -1,4 +1,8 @@
 # firebase
+Screenshot
+![register](https://github.com/aamirali65/Flutter-Login-Signup-Email-And-Phone-Firebase/assets/103622237/751e762c-aff9-4f12-94a2-7181c5113d67)
+![Login](https://github.com/aamirali65/Flutter-Login-Signup-Email-And-Phone-Firebase/assets/103622237/c430a709-47e0-4a01-8ae1-12e0eba38f12)
+
 
 A new Flutter project.
 
